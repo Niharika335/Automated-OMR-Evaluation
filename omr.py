@@ -146,4 +146,3 @@ def process_image(input_path, coords_path="sample_data/template_coords.json", ke
         "score": score,
         "overlay_path": overlay_path
     }
-aste the full omr.py content from my previous message here)
