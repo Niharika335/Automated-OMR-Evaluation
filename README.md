@@ -1,6 +1,4 @@
 # Automated OMR Evaluation & Scoring System
-# (Paste full README content here)
-# Automated OMR Evaluation & Scoring System
 
 ## Overview
 This project automates the evaluation of OMR sheets for placement readiness assessments. It replaces manual checking with an **accurate, fast, and scalable system**.
